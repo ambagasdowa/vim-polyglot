@@ -1535,6 +1535,13 @@ filetypes:
   extensions:
   - slime
 ---
+  name: smcat
+  remote: ambagasdowa/vim-syntax-smcat
+  filetypes: 
+- name: smcat
+  extensions: 
+  - smcat
+---
 name: smt2
 remote: bohlender/vim-smt2
 filetypes:
